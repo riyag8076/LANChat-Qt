@@ -1,0 +1,11 @@
+Current Status Summary
+
+The application prototype is functional and demonstrates : 
+-GUI development
+-TCP-based messaging
+-chat history persistence 
+-visibility controls
+-UDP-based nearby user discovery has been implemented and partially tested
+(Additional LAN environment testing is required to fully validate automatic user discovery across multiple devices.)
+
+The project demonstrates the intended architecture and core functionality while leaving room for future enhancement and testing.
